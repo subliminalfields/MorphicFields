@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://subliminalfields.github.io/Subliminalfields/sitemap.xml
