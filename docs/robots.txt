@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://subliminalfields.github.io/SubliminalFields/sitemap.xml
+Sitemap: https://subliminalfields.github.io/MorphicFields/sitemap.xml
